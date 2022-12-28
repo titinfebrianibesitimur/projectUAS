@@ -35,8 +35,8 @@
             <div class="row row-cols-1 row-cols-xs-2 row-cols-sm-2 row-cols-lg-4 g-3">
               <div class="col">
                 <div class="container cardShop h-100 shadow-sm">
-                  <img
-                    src="polldle.png"
+                  <img 
+                    src="images/toypoodle.jpg" 
                     class="cardShop-img-top"
                     alt="..."
                   />
@@ -59,7 +59,7 @@
               <div class="col">
                 <div class="container cardShop h-100 shadow-sm">
                   <img
-                    src="https://www.freepnglogos.com/uploads/notebook-png/notebook-laptop-png-images-you-can-download-mashtrelo-14.png"
+                    src="images/meltese.jpg"
                     class="cardShop-img-top"
                     alt="..."
                   />
@@ -82,7 +82,7 @@
               <div class="col">
                 <div class="container cardShop h-100 shadow-sm">
                   <img
-                    src="https://www.freepnglogos.com/uploads/notebook-png/download-laptop-notebook-png-image-png-image-pngimg-2.png"
+                    src="images/bulldog.jpg"
                     class="cardShop-img-top"
                     alt="..."
                   />
@@ -113,7 +113,7 @@
               <div class="col">
                 <div class="container cardShop h-100 shadow-sm">
                   <img
-                    src="https://www.freepnglogos.com/uploads/notebook-png/notebook-laptop-png-images-you-can-download-mashtrelo-14.png"
+                    src="images/husky.png"
                     class="cardShop-img-top"
                     alt="..."
                   />
@@ -153,7 +153,7 @@
           <div class="col">
             <div class="container cardShop h-100 shadow-sm">
               <img
-                src="https://www.freepnglogos.com/uploads/notebook-png/download-laptop-notebook-png-image-png-image-pngimg-2.png"
+                src="images/chowchow.jpg"
                 class="cardShop-img-top"
                 alt="..."
               />
@@ -176,7 +176,7 @@
           <div class="col">
             <div class="container cardShop h-100 shadow-sm">
               <img
-                src="https://www.freepnglogos.com/uploads/notebook-png/notebook-laptop-png-images-you-can-download-mashtrelo-14.png"
+                src="images/akitainu.jpg"
                 class="cardShop-img-top"
                 alt="..."
               />
@@ -199,7 +199,7 @@
           <div class="col">
             <div class="container cardShop h-100 shadow-sm">
               <img
-                src="https://www.freepnglogos.com/uploads/notebook-png/download-laptop-notebook-png-image-png-image-pngimg-2.png"
+                src="images/papillon.jpg"                
                 class="cardShop-img-top"
                 alt="..."
               />
@@ -231,7 +231,7 @@
           <div class="col">
             <div class="container cardShop h-100 shadow-sm">
               <img
-                src="https://www.freepnglogos.com/uploads/notebook-png/notebook-laptop-png-images-you-can-download-mashtrelo-14.png"
+                src="images/samoyed.jpeg"                
                 class="cardShop-img-top"
                 alt="..."
               />
@@ -273,7 +273,7 @@
       <div class="col">
         <div class="container cardShop h-100 shadow-sm">
           <img
-            src="https://www.freepnglogos.com/uploads/notebook-png/download-laptop-notebook-png-image-png-image-pngimg-2.png"
+           src="images/alaskanmalamute.jpg"            
             class="cardShop-img-top"
             alt="..."
           />
@@ -297,7 +297,7 @@
       <div class="col">
         <div class="container cardShop h-100 shadow-sm">
           <img
-            src="https://www.freepnglogos.com/uploads/notebook-png/notebook-laptop-png-images-you-can-download-mashtrelo-14.png"
+            src="images/corgi.jpg"            
             class="cardShop-img-top"
             alt="..."
           />
@@ -320,7 +320,7 @@
       <div class="col">
         <div class="container cardShop h-100 shadow-sm">
           <img
-            src="https://www.freepnglogos.com/uploads/notebook-png/download-laptop-notebook-png-image-png-image-pngimg-2.png"
+            src="images/pekingese.jpg"            
             class="cardShop-img-top"
             alt="..."
           />
@@ -351,7 +351,7 @@
       <div class="col">
         <div class="container cardShop h-100 shadow-sm">
           <img
-            src="https://www.freepnglogos.com/uploads/notebook-png/notebook-laptop-png-images-you-can-download-mashtrelo-14.png"
+            src="images/goldenretriever.jpg"
             class="cardShop-img-top"
             alt="..."
           />
