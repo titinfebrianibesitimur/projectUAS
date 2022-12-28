@@ -113,7 +113,7 @@
               <div class="col">
                 <div class="container cardShop h-100 shadow-sm">
                   <img
-                    src="images/husky.png"
+                    src="images/huzky.png"
                     class="cardShop-img-top"
                     alt="..."
                   />
