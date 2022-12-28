@@ -24,214 +24,398 @@
     <?php include '_framework/navbar.php'; ?>
 
     <main>
-      <div class="container">
-        <h1 class="text-white pt-3 pl-3 ">ORIGINS</h1>
-        <p class="text-white px-3">Sejarah dan latar belakang masing-masing ras anjing.</p>
+    <div class="container">
+            <h1 class="text-white pt-3 pl-3 ">BESTSELLERS</h1>
+            <p class="text-white px-3">Anjing-anjing pilihan terlaris yang mungkin kamu sukai!</p>
         <div data-aos="fade-up" data-aos-duration="3000">
-
-          <div></div>
-          <section class="dark">
-            <div class="container py-4">
-
-              <article class="postcard dark blue">
-                <a class="postcard__img_link" href="#">
-                  <img class="postcard__img" src="https://picsum.photos/1000/1000" alt="Image Title" />
-                </a>
-                <div class="postcard__text">
-                  <h1 class="postcard__title blue"><a href="#">Podcast Title</a></h1>
-                  <div class="postcard__subtitle small">
-                    <time datetime="2020-05-25 12:00:00">
-                      <i class="fas fa-calendar-alt mr-2"></i>Mon, May 25th 2020
-                    </time>
+            <div
+            class=" bg-trasparent  p-3"
+            style="position: relative"
+          >
+            <div class="row row-cols-1 row-cols-xs-2 row-cols-sm-2 row-cols-lg-4 g-3">
+              <div class="col">
+                <div class="container cardShop h-100 shadow-sm">
+                  <img
+                    src="polldle.png"
+                    class="cardShop-img-top"
+                    alt="..."
+                  />
+                  <div class="cardShop-body">
+                    <div class="clearfix mb-3">
+                      <span class="float-start badge rounded-pill bg-primary"
+                        >Toy Poodle</span
+                      >
+                      <span class="float-end"><a >Rp.7.000.000</a></span>
+                    </div>
+                    <h5 class="cardShop-title">
+                      Anjing poodle adalah salah satu anjing ras terpintar di dunia
+                    </h5>
+                    <div class="text-center my-4">
+                      <a href="#" class="btnShop btnShop-warning">Check offer</a>
+                    </div>
                   </div>
-                  <div class="postcard__bar"></div>
-                  <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
-                  <ul class="postcard__tagbox">
-                    <li class="tag__item"><i class="fas fa-tag mr-2"></i>Podcast</li>
-                    <li class="tag__item"><i class="fas fa-clock mr-2"></i>55 mins.</li>
-                    <li class="tag__item play blue">
-                      <a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
-                    </li>
-                  </ul>
                 </div>
-              </article>
-              <article class="postcard dark red">
-                <a class="postcard__img_link" href="#">
-                  <img class="postcard__img" src="https://picsum.photos/501/500" alt="Image Title" />
-                </a>
-                <div class="postcard__text">
-                  <h1 class="postcard__title red"><a href="#">Podcast Title</a></h1>
-                  <div class="postcard__subtitle small">
-                    <time datetime="2020-05-25 12:00:00">
-                      <i class="fas fa-calendar-alt mr-2"></i>Mon, May 25th 2020
-                    </time>
+              </div>
+              <div class="col">
+                <div class="container cardShop h-100 shadow-sm">
+                  <img
+                    src="https://www.freepnglogos.com/uploads/notebook-png/notebook-laptop-png-images-you-can-download-mashtrelo-14.png"
+                    class="cardShop-img-top"
+                    alt="..."
+                  />
+                  <div class="cardShop-body">
+                    <div class="clearfix mb-3">
+                      <span class="float-start badge rounded-pill bg-success"
+                        >Maltese</span
+                      >
+                      <span class="float-end"><a >Rp.3.000.000</a></span>
+                    </div>
+                    <h5 class="cardShop-title">
+                      Anjing Maltese adalah salah satu hewan yang terkenal karena bentuknya yang lucu dan menggemaskan
+                    </h5>
+                    <div class="text-center my-4">
+                        <a href="#" class="btnShop btnShop-warning">Check offer</a>
+                      </div>
                   </div>
-                  <div class="postcard__bar"></div>
-                  <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
-                  <ul class="postcard__tagbox">
-                    <li class="tag__item"><i class="fas fa-tag mr-2"></i>Podcast</li>
-                    <li class="tag__item"><i class="fas fa-clock mr-2"></i>55 mins.</li>
-                    <li class="tag__item play red">
-                      <a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
-                    </li>
-                  </ul>
                 </div>
-              </article>
-              <article class="postcard dark green">
-                <a class="postcard__img_link" href="#">
-                  <img class="postcard__img" src="https://picsum.photos/500/501" alt="Image Title" />
-                </a>
-                <div class="postcard__text">
-                  <h1 class="postcard__title green"><a href="#">Podcast Title</a></h1>
-                  <div class="postcard__subtitle small">
-                    <time datetime="2020-05-25 12:00:00">
-                      <i class="fas fa-calendar-alt mr-2"></i>Mon, May 25th 2020
-                    </time>
+              </div>
+              <div class="col">
+                <div class="container cardShop h-100 shadow-sm">
+                  <img
+                    src="https://www.freepnglogos.com/uploads/notebook-png/download-laptop-notebook-png-image-png-image-pngimg-2.png"
+                    class="cardShop-img-top"
+                    alt="..."
+                  />
+                  
+                  <div class="cardShop-body">
+                    <div class="clearfix mb-3">
+                      <span class="float-start badge rounded-pill bg-success"
+                        >Bulldog</span
+                      >
+                      <span class="float-end"
+                        ><span class="float-end"><a >Rp.7.000.000</a></span>
+                    </div>
+                    <h5 class="card-title">
+                      Bulldog adalah salah satu anjing ras populer di dunia
+                    </h5>
+                    <div class="text-center my-4">
+                      <a href="#" class="btnShop btnShop-warning">Check offer</a>
+                    </div>
+                    <div class="clearfix mb-1">
+                      <span class="float-start"
+                        ><i class="far fa-question-circle"></i
+                      ></span>
+                      <span class="float-end"><i class="fas fa-plus"></i></span>
+                    </div>
                   </div>
-                  <div class="postcard__bar"></div>
-                  <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
-                  <ul class="postcard__tagbox">
-                    <li class="tag__item"><i class="fas fa-tag mr-2"></i>Podcast</li>
-                    <li class="tag__item"><i class="fas fa-clock mr-2"></i>55 mins.</li>
-                    <li class="tag__item play green">
-                      <a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
-                    </li>
-                  </ul>
                 </div>
-              </article>
-              <article class="postcard dark yellow">
-                <a class="postcard__img_link" href="#">
-                  <img class="postcard__img" src="https://picsum.photos/501/501" alt="Image Title" />
-                </a>
-                <div class="postcard__text">
-                  <h1 class="postcard__title yellow"><a href="#">Podcast Title</a></h1>
-                  <div class="postcard__subtitle small">
-                    <time datetime="2020-05-25 12:00:00">
-                      <i class="fas fa-calendar-alt mr-2"></i>Mon, May 25th 2020
-                    </time>
+              </div>
+              <div class="col">
+                <div class="container cardShop h-100 shadow-sm">
+                  <img
+                    src="https://www.freepnglogos.com/uploads/notebook-png/notebook-laptop-png-images-you-can-download-mashtrelo-14.png"
+                    class="cardShop-img-top"
+                    alt="..."
+                  />
+                  
+                  <div class="cardShop-body">
+                    <div class="clearfix mb-3">
+                      <span class="float-start badge rounded-pill bg-success"
+                      >Siberian Husky</span
+                    >
+                      <span class="float-end"
+                        ><span class="float-end"><a >Rp.7.000.000</a></span>
+                      
+                    </div>
+                    <h5 class="cardShop-title">
+                      Siberian Husky termasuk dalam jenis anjing ras berukuran sedang dan berbulu tebal
+                    </h5>
+                    <div class="text-center my-4">
+                      <a href="#" class="btnShop btnShop-warning">Check offer</a>
+                    </div>
+                    <div class="clearfix mb-1">
+                      <span class="float-start"
+                        ><i class="far fa-question-circle"></i
+                      ></span>
+                      <span class="float-end"><i class="fas fa-plus"></i></span>
+                    </div>
                   </div>
-                  <div class="postcard__bar"></div>
-                  <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
-                  <ul class="postcard__tagbox">
-                    <li class="tag__item"><i class="fas fa-tag mr-2"></i>Podcast</li>
-                    <li class="tag__item"><i class="fas fa-clock mr-2"></i>55 mins.</li>
-                    <li class="tag__item play yellow">
-                      <a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
-                    </li>
-                  </ul>
                 </div>
-              </article>
+              </div>
             </div>
-          </section>
+          </div>
+            
+            
 
-          <section class="light">
-            <div class="container py-2">
-
-              <article class="postcard light blue">
-                <a class="postcard__img_link" href="#">
-                  <img class="postcard__img" src="https://picsum.photos/1000/1000" alt="Image Title" />
-                </a>
-                <div class="postcard__text t-dark">
-                  <h1 class="postcard__title blue"><a href="#">Podcast Title</a></h1>
-                  <div class="postcard__subtitle small">
-                    <time datetime="2020-05-25 12:00:00">
-                      <i class="fas fa-calendar-alt mr-2"></i>Mon, May 25th 2020
-                    </time>
-                  </div>
-                  <div class="postcard__bar"></div>
-                  <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
-                  <ul class="postcard__tagbox">
-                    <li class="tag__item"><i class="fas fa-tag mr-2"></i>Podcast</li>
-                    <li class="tag__item"><i class="fas fa-clock mr-2"></i>55 mins.</li>
-                    <li class="tag__item play blue">
-                      <a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
-                    </li>
-                  </ul>
+        </div>
+        <div
+        class=" bg-trasparent  p-3"
+        style="position: relative"
+      >
+        <div class="row row-cols-1 row-cols-xs-2 row-cols-sm-2 row-cols-lg-4 g-3">
+          <div class="col">
+            <div class="container cardShop h-100 shadow-sm">
+              <img
+                src="https://www.freepnglogos.com/uploads/notebook-png/download-laptop-notebook-png-image-png-image-pngimg-2.png"
+                class="cardShop-img-top"
+                alt="..."
+              />
+              <div class="cardShop-body">
+                <div class="clearfix mb-3">
+                  <span class="float-start badge rounded-pill bg-primary"
+                    >Chow Chow</span
+                  >
+                  <span class="float-end"><a >Rp.7.000.000</a></span>
                 </div>
-              </article>
-              <article class="postcard light red">
-                <a class="postcard__img_link" href="#">
-                  <img class="postcard__img" src="https://picsum.photos/501/500" alt="Image Title" />
-                </a>
-                <div class="postcard__text t-dark">
-                  <h1 class="postcard__title red"><a href="#">Podcast Title</a></h1>
-                  <div class="postcard__subtitle small">
-                    <time datetime="2020-05-25 12:00:00">
-                      <i class="fas fa-calendar-alt mr-2"></i>Mon, May 25th 2020
-                    </time>
-                  </div>
-                  <div class="postcard__bar"></div>
-                  <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
-                  <ul class="postcard__tagbox">
-                    <li class="tag__item"><i class="fas fa-tag mr-2"></i>Podcast</li>
-                    <li class="tag__item"><i class="fas fa-clock mr-2"></i>55 mins.</li>
-                    <li class="tag__item play red">
-                      <a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
-                    </li>
-                  </ul>
+                <h5 class="cardShop-title">
+                  Chow Chow adalah salah satu ras anjing tertua di dunia yang berasal dari Tiongkok
+                </h5>
+                <div class="text-center my-4">
+                  <a href="#" class="btnShop btnShop-warning">Check offer</a>
                 </div>
-              </article>
-              <article class="postcard light green">
-                <a class="postcard__img_link" href="#">
-                  <img class="postcard__img" src="https://picsum.photos/500/501" alt="Image Title" />
-                </a>
-                <div class="postcard__text t-dark">
-                  <h1 class="postcard__title green"><a href="#">Podcast Title</a></h1>
-                  <div class="postcard__subtitle small">
-                    <time datetime="2020-05-25 12:00:00">
-                      <i class="fas fa-calendar-alt mr-2"></i>Mon, May 25th 2020
-                    </time>
-                  </div>
-                  <div class="postcard__bar"></div>
-                  <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
-                  <ul class="postcard__tagbox">
-                    <li class="tag__item"><i class="fas fa-tag mr-2"></i>Podcast</li>
-                    <li class="tag__item"><i class="fas fa-clock mr-2"></i>55 mins.</li>
-                    <li class="tag__item play green">
-                      <a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
-                    </li>
-                  </ul>
-                </div>
-              </article>
-              <article class="postcard light yellow">
-                <a class="postcard__img_link" href="#">
-                  <img class="postcard__img" src="https://picsum.photos/501/501" alt="Image Title" />
-                </a>
-                <div class="postcard__text t-dark">
-                  <h1 class="postcard__title yellow"><a href="#">Podcast Title</a></h1>
-                  <div class="postcard__subtitle small">
-                    <time datetime="2020-05-25 12:00:00">
-                      <i class="fas fa-calendar-alt mr-2"></i>Mon, May 25th 2020
-                    </time>
-                  </div>
-                  <div class="postcard__bar"></div>
-                  <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
-                  <ul class="postcard__tagbox">
-                    <li class="tag__item"><i class="fas fa-tag mr-2"></i>Podcast</li>
-                    <li class="tag__item"><i class="fas fa-clock mr-2"></i>55 mins.</li>
-                    <li class="tag__item play yellow">
-                      <a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
-                    </li>
-                  </ul>
-                </div>
-              </article>
+              </div>
             </div>
-          </section>
+          </div>
+          <div class="col">
+            <div class="container cardShop h-100 shadow-sm">
+              <img
+                src="https://www.freepnglogos.com/uploads/notebook-png/notebook-laptop-png-images-you-can-download-mashtrelo-14.png"
+                class="cardShop-img-top"
+                alt="..."
+              />
+              <div class="cardShop-body">
+                <div class="clearfix mb-3">
+                  <span class="float-start badge rounded-pill bg-success"
+                    >akita inu</span
+                  >
+                  <span class="float-end"><a >Rp.7.000.000</a></span>
+                </div>
+                <h5 class="cardShop-title">
+                  akita inu merupakan anjing Jepang tertua 
+                </h5>
+                <div class="text-center my-4">
+                    <a href="#" class="btnShop btnShop-warning">Check offer</a>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="container cardShop h-100 shadow-sm">
+              <img
+                src="https://www.freepnglogos.com/uploads/notebook-png/download-laptop-notebook-png-image-png-image-pngimg-2.png"
+                class="cardShop-img-top"
+                alt="..."
+              />
+             
+              <div class="cardShop-body">
+                <div class="clearfix mb-3">
+                  <span class="float-start badge rounded-pill bg-success"
+                    >Papillon</span
+                  >
+                  <span class="float-end"
+                    ><span class="float-end"><a >Rp.10.000.000</a></span>
+                  
+                </div>
+                <h5 class="card-title">
+                  Papillon adalah anjing ras yang lucu dan menggemaskan
+                </h5>
+                <div class="text-center my-4">
+                  <a href="#" class="btnShop btnShop-warning">Check offer</a>
+                </div>
+                <div class="clearfix mb-1">
+                  <span class="float-start"
+                    ><i class="far fa-question-circle"></i
+                  ></span>
+                  <span class="float-end"><i class="fas fa-plus"></i></span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="container cardShop h-100 shadow-sm">
+              <img
+                src="https://www.freepnglogos.com/uploads/notebook-png/notebook-laptop-png-images-you-can-download-mashtrelo-14.png"
+                class="cardShop-img-top"
+                alt="..."
+              />
+              
+              <div class="cardShop-body">
+                <div class="clearfix mb-3">
+                  <span class="float-start badge rounded-pill bg-success"
+                    >Samoyed</span
+                  >
+                  <span class="float-end"
+                    ><span class="float-end"><a >Rp.20.000.000</a></span>
+                </div>
+                <h5 class="cardShop-title">
+                  Anjing Samoyed adalah anjing ras termurni bulu tebal dan berwarna putih
+                </h5>
+                <div class="text-center my-4">
+                  <a href="#" class="btnShop btnShop-warning">Check offer</a>
+                </div>
+                <div class="clearfix mb-1">
+                  <span class="float-start"
+                    ><i class="far fa-question-circle"></i
+                  ></span>
+                  <span class="float-end"><i class="fas fa-plus"></i></span>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
+        
+        
 
-    </main>
 
-    <svg width="100%" height="100%" id="svg" viewBox="0 0 1440 400" xmlns="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-150">
-      <path d="M 0,400 C 0,400 0,200 0,200 C 146.85714285714283,175.67857142857144 293.71428571428567,151.35714285714286 408,158 C 522.2857142857143,164.64285714285714 603.9999999999999,202.25 725,230 C 846.0000000000001,257.75 1006.2857142857144,275.64285714285717 1132,269 C 1257.7142857142856,262.35714285714283 1348.8571428571427,231.17857142857142 1440,200 C 1440,200 1440,400 1440,400 Z" stroke="none" stroke-width="0" fill="#0000ff" fill-opacity="1" class="transition-all duration-300 ease-in-out delay-150 path-0" transform="rotate(-180 720 200)"></path>
+    <div
+    class=" bg-trasparent  p-3"
+    style="position: relative"
+  >
+    <div class="row row-cols-1 row-cols-xs-2 row-cols-sm-2 row-cols-lg-4 g-3">
+      <div class="col">
+        <div class="container cardShop h-100 shadow-sm">
+          <img
+            src="https://www.freepnglogos.com/uploads/notebook-png/download-laptop-notebook-png-image-png-image-pngimg-2.png"
+            class="cardShop-img-top"
+            alt="..."
+          />
+          <div class="cardShop-body">
+            <div class="clearfix mb-3">
+              <span class="float-start badge rounded-pill bg-primary"
+                >Alaskan Malamute</span
+              >
+              <span class="float-end"
+              ><span class="float-end"><a >Rp.20.000.000</a></span>
+            </div>
+            <h5 class="cardShop-title">
+              Alaskan malamute adalah salah satu jenis anjing peliharaan favorit di seluruh dunia.
+            </h5>
+            <div class="text-center my-4">
+              <a href="#" class="btnShop btnShop-warning">Check offer</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="container cardShop h-100 shadow-sm">
+          <img
+            src="https://www.freepnglogos.com/uploads/notebook-png/notebook-laptop-png-images-you-can-download-mashtrelo-14.png"
+            class="cardShop-img-top"
+            alt="..."
+          />
+          <div class="cardShop-body">
+            <div class="clearfix mb-3">
+              <span class="float-start badge rounded-pill bg-success"
+                >Corgi</span
+              >
+              <span class="float-end"><a >Rp.30.000.000</a></span>
+            </div>
+            <h5 class="cardShop-title">
+              Anjing Corgi adalah anjing yang ceria dan sangat aktif,walaupun tubuhnya pendek
+            </h5>
+            <div class="text-center my-4">
+                <a href="#" class="btnShop btnShop-warning">Check offer</a>
+              </div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="container cardShop h-100 shadow-sm">
+          <img
+            src="https://www.freepnglogos.com/uploads/notebook-png/download-laptop-notebook-png-image-png-image-pngimg-2.png"
+            class="cardShop-img-top"
+            alt="..."
+          />
+          
+          <div class="cardShop-body">
+            <div class="clearfix mb-3">
+              <span class="float-start badge rounded-pill bg-success"
+                >Pekingese</span
+              >
+              <span class="float-end"
+                ><span class="float-end"><a >Rp.32.000.000</a></span>
+            </div>
+            <h5 class="card-title">
+              Meski terlihat kecil, siapa sangka ternyata jenis anjing satu ini berotot dan cukup berat. Bulunya yang lebat
+            </h5>
+            <div class="text-center my-4">
+              <a href="#" class="btnShop btnShop-warning">Check offer</a>
+            </div>
+            <div class="clearfix mb-1">
+              <span class="float-start"
+                ><i class="far fa-question-circle"></i
+              ></span>
+              <span class="float-end"><i class="fas fa-plus"></i></span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="container cardShop h-100 shadow-sm">
+          <img
+            src="https://www.freepnglogos.com/uploads/notebook-png/notebook-laptop-png-images-you-can-download-mashtrelo-14.png"
+            class="cardShop-img-top"
+            alt="..."
+          />
+          
+          <div class="cardShop-body">
+            <div class="clearfix mb-3">
+              <span class="float-start badge rounded-pill bg-success"
+                >Golden Retriever</span
+              >
+              <span class="float-end"
+                ><span class="float-end"><a >Rp.32.000.000</a></span>
+            </div>
+            <h5 class="cardShop-title">
+              Jenis anjing satu ini cukup populer dan menjadi hewan peliharaan favorit banyak keluarga.
+            </h5>
+            <div class="text-center my-4">
+              <a href="#" class="btnShop btnShop-warning">Check offer</a>
+            </div>
+            <div class="clearfix mb-1">
+              <span class="float-start"
+                ><i class="far fa-question-circle"></i
+              ></span>
+              <span class="float-end"><i class="fas fa-plus"></i></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+      </main>
+
+    <svg
+      width="100%"
+      height="100%"
+      id="svg"
+      viewBox="0 0 1440 400"
+      xmlns="http://www.w3.org/2000/svg"
+      class="transition duration-300 ease-in-out delay-150"
+    >
+      <path
+        d="M 0,400 C 0,400 0,200 0,200 C 146.85714285714283,175.67857142857144 293.71428571428567,151.35714285714286 408,158 C 522.2857142857143,164.64285714285714 603.9999999999999,202.25 725,230 C 846.0000000000001,257.75 1006.2857142857144,275.64285714285717 1132,269 C 1257.7142857142856,262.35714285714283 1348.8571428571427,231.17857142857142 1440,200 C 1440,200 1440,400 1440,400 Z"
+        stroke="none"
+        stroke-width="0"
+        fill="#0000ff"
+        fill-opacity="1"
+        class="transition-all duration-300 ease-in-out delay-150 path-0"
+        transform="rotate(-180 720 200)"
+      ></path>
     </svg>
-
+   
 
     <footer id="contacts">
       <!-- Footer -->
       <footer class="text-center text-lg-start bg-light text-muted">
         <!-- Section: Social media -->
-        <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+        <section
+          class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom"
+        >
           <!-- Left -->
           <div class="me-5 d-none d-lg-block">
             <span>Get connected with us on social networks:</span>
@@ -272,7 +456,9 @@
               <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
                 <!-- Content -->
                 <h6 class="text-uppercase mb-4">
-                  <a class="navbar-brand" href="#"><i class="fa-solid fa-paw"></i></i> <b>TITIN</b>shop</a>
+                  <a class="navbar-brand" href="#"
+                  ><i class="fa-solid fa-paw"></i></i> <b>TITIN</b>shop</a
+                  >
                 </h6>
                 <p>
                   TITINshop. merupakan perusahaan yang bergerak dibidang jual anak anjing terlengkap, kami memberikan kemudahan bagi Anda yang cari hewan peliharaan dengan menghadirkan toko online yang aman proses mudah dan cepat
@@ -285,9 +471,9 @@
                 <!-- Links -->
                 <h6 class="text-uppercase fw-bold mb-4">Jenis Doggie</h6>
                 <p>
-                  <a href="#!" class="text-reset">Alaskan Malamute Supermini Pom Husky Poodle Bulldog French Bulldog Beagle Chow Chow dll</a>
+                  <a href="#!" class="text-reset">Alaskan Malamute   Supermini Pom   Husky   Poodle   Bulldog French   Bulldog   Beagle   Chow Chow dll</a>
                 </p>
-
+                
               </div>
               <!-- Grid column -->
 
@@ -310,7 +496,10 @@
         <!-- Section: Links  -->
 
         <!-- Copyright -->
-        <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05)">
+        <div
+          class="text-center p-4"
+          style="background-color: rgba(0, 0, 0, 0.05)"
+        >
           <a class="text-reset fw-bold" href="#">© 2022 Titin Febriani Besitimur. </a>
           All Rights Reserved.
         </div>
@@ -319,17 +508,28 @@
       <!-- Footer -->
     </footer>
     <!-- Bootstrap JavaScript Libraries -->
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+      integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
+      crossorigin="anonymous"
+    ></script>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.min.js" integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz" crossorigin="anonymous"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.min.js"
+      integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz"
+      crossorigin="anonymous"
+    ></script>
 
-    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script
+      src="https://code.jquery.com/jquery-3.6.1.min.js"
+      integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="
+      crossorigin="anonymous"
+    ></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="main.js"></script>
     <script>
       AOS.init();
     </script>
-</body>
-
+  </body>
 </html>
