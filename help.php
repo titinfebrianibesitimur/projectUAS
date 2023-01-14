@@ -51,22 +51,24 @@
                   <section>
                     <div class="product">
                       <div class="item">
-                        <div class="left"> <a href="#" class="thumb"> <img src="https://i.imgur.com/yYu3Hbl.jpg" alt=""> </a>
+                        <div class="left"> <a href="#" class="thumb"> 
+                          <img src="images/toypoodle.jpg" alt=""> </a>
                           <div class="purchase">
-                            <h6> <a href="#">Macbook Air Laptop</a> </h6> <span>x1</span>
+                            <h6> <a href="#">Toy Poodle</a> </h6> <span>x1</span>
                           </div>
-                        </div> <span class="price">$290</span>
+                        </div> <span class="price">Rp.7.000.000</span>
                       </div>
                       <div class="item">
-                        <div class="left"> <a href="#" class="thumb"> <img src="https://www.businessinsider.in/thumb/msid-70101317,width-600,resizemode-4,imgsize-87580/tech/ways-to-increase-mobile-phone-speed/13d0e0722dbca5aa91e16a8ae2a744e5.jpg" alt=""> </a>
+                        <div class="left"> <a href="#" class="thumb"> 
+                          <img src="images/meltese.jpg" alt=""> </a>
                           <div class="purchase">
-                            <h6> <a href="#">Mobile Phone Mi</a> </h6> <span>x1</span>
+                            <h6> <a href="#">Maltese</a> </h6> <span>x1</span>
                           </div>
-                        </div> <span class="price">$124</span>
+                        </div> <span class="price">Rp.3.000.000</span>
                       </div>
                     </div>
                     <div class="checkout">
-                      <div class="subtotal"> <span class="heading">Subtotal</span> <span class="total">$364</span> </div>
+                      <div class="subtotal"> <span class="heading">Subtotal</span> <span class="total">Rp.10.000.000</span> </div>
                     </div>
                   </section> <!-- SECTION 4 -->
                   <h4></h4>
